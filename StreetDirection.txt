@@ -1,0 +1,12 @@
+N	north
+E	east
+W	west
+S	south
+NE	north east
+NW	north west
+EN	east north
+ES	east south
+SE	south east
+SW	south west
+WN	west north
+WS	west south
